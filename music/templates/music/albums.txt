@@ -1,0 +1,14 @@
+Album Name: Abbey Road
+Album Artist: The Beatles
+Genre: Rock
+Album Logo: http://d817ypd61vbww.cloudfront.net/sites/default/files/styles/media_responsive_widest/public/tile/image/original_441.jpg?itok=bSu8Jojn
+
+Album Name: 14:59
+Album Artist: Sugar Ray
+Genre: Punk Rock
+Album Logo: https://upload.wikimedia.org/wikipedia/en/5/55/SR-14-59.jpg
+
+Album Name: Red
+Album Artist: Taylor Swift
+Genre: Country
+Album Logo: https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png
